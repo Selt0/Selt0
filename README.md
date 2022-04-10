@@ -56,9 +56,7 @@ I work to create excellent responsive websites and am eager to solve problems th
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories** 👇
-
-:star: From [selt0](https://github.com/selt0)
+:star: **Check the Repositories** 👇
 
 <!-- [website]: https://selt0.github.io/Portfolio/ -->
 [twitter]: https://twitter.com/MMocomochi
