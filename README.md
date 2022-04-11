@@ -6,10 +6,10 @@
   <img src="#" width="100%" title="Intro Card" alt="Intro Card">
 </p> -->
 
-I am a Full-stack Web Developer/Software Engineer who is trying to break into the machine world :robot: with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Full-stack Web Developer/Software Engineer who is trying to break into the machine world :robot: with my esign Thinking Skills and Enthusiasm :wink:. 
 I work to create excellent responsive websites and am eager to solve problems through innovative solutions and collaboration.
  
- 🔭 I’m planning for a Project to add to my portfolio. The job hunt begins soon!
+ 🔭 I’m planning for a new project to add to my portfolio. The job hunt begins soon!
  
  🌱 I’m currently learning backend 
 
@@ -32,9 +32,6 @@ I work to create excellent responsive websites and am eager to solve problems th
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-
-### Other Languages I know
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
