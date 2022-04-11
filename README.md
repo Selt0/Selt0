@@ -46,9 +46,9 @@ I work to create excellent responsive websites and am eager to solve problems th
 
 ### You can find in me in the web 🌍
 <!-- [<img align="left" alt="Selt0" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Selt0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Selt0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Selt0 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img  alt="Selt0 | Twitter" width="22px" src="imgs/twitter.png" />][twitter] 
+[<img  alt="Selt0 | LinkedIn" width="22px" src="imgs/linkedin.png" />][linkedin] 
+[<img  alt="Selt0 | Instagram" width="22px" src="imgs/instagram.png" />][instagram]
 
 <br/>
 
