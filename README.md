@@ -6,7 +6,7 @@
   <img src="#" width="100%" title="Intro Card" alt="Intro Card">
 </p> -->
 
-I am a Full-stack Web Developer/Software Engineer who is trying to break into the machine world :robot: with my esign Thinking Skills and Enthusiasm :wink:. 
+I am a Full-stack Web Developer/Software Engineer who is trying to break into the machine world :robot: with my Design Thinking Skills and Enthusiasm :wink:. 
 I work to create excellent responsive websites and am eager to solve problems through innovative solutions and collaboration.
  
  🔭 I’m planning for a new project to add to my portfolio. The job hunt begins soon!
