@@ -16,83 +16,81 @@ I work to create excellent responsive websites and am eager to solve problems th
 
 ---
 <h2 align="center">Highlighted Projects</h2>
-<div align="center">
-  <table bordercolor="#66b2b2">
-    <tr>
-      <td width="50%">
-        <h3 align="center" color="white">Portfolio</h3>
-        <br>
-        <a href='https://michael-martinez.netlify.app/'> 
-          <img src='https://github.com/Selt0/Selt0/blob/main/imgs/Portfolio.gif?raw=true' alt='portfolio'/>  
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%">
+      <h3 align="center" color="white">Portfolio</h3>
+      <br>
+      <a href='https://michael-martinez.netlify.app/'> 
+        <img src='https://github.com/Selt0/Selt0/blob/main/imgs/Portfolio.gif?raw=true' alt='portfolio'/>  
+      </a>
+      <br> 
+      <p align='center'>
+        <a href="https://github.com/Selt0/Portfolio" target="_blank">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
         </a>
-        <br> 
-        <p align='center'>
-          <a href="https://github.com/Selt0/Portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://michael-martinez.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-          </a>
-        </p>
-        <p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-      </td>
-      <td width='50%'>
-        <h3 align="center" color="white">YelpCamp</h3>
-        <br> 
-        <a href='https://mysterious-savannah-78294.herokuapp.com/'> 
-          <img src='https://github.com/Selt0/Selt0/blob/main/imgs/YelpCamp.gif?raw=true' alt='Yelp Camp website'/>
+        <a href="https://michael-martinez.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
         </a>
-        <br>
-        <p align='center'>
-          <a href="https://github.com/Selt0/yelpCamp" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://mysterious-savannah-78294.herokuapp.com/" target="_blank">
-            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-          </a>
-        </p>
-        <p><strong>JavaScript, Bootstrap, Express.js, Node.js, MongoDB</strong> - A full-stack, fully functional web application where people can submit campgrounds and users can review them. With authentication and authorization!</p>
-      </td>
-    </tr>
+      </p>
+      <p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width='50%'>
+      <h3 align="center" color="white">YelpCamp</h3>
+      <br> 
+      <a href='https://mysterious-savannah-78294.herokuapp.com/'> 
+        <img src='https://github.com/Selt0/Selt0/blob/main/imgs/YelpCamp.gif?raw=true' alt='Yelp Camp website'/>
+      </a>
+      <br>
+      <p align='center'>
+        <a href="https://github.com/Selt0/yelpCamp" target="_blank">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://mysterious-savannah-78294.herokuapp.com/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+        </a>
+      </p>
+      <p><strong>JavaScript, Bootstrap, Express.js, Node.js, MongoDB</strong> - A full-stack, fully functional web application where people can submit campgrounds and users can review them. With authentication and authorization!</p>
+    </td>
+  </tr>
 
-    <tr>
-      <td width="50%">
-        <h3 align="center" color="white">Etch-a-Sketch</h3>
-        <br>
-        <a href='https://selt0.github.io/etch-a-sketch/'> 
-          <img src='https://github.com/Selt0/Selt0/blob/main/imgs/Etch-a-sketch.gif?raw=true' alt='etch-a-sketch project'/>  
+  <tr>
+    <td width="50%">
+      <h3 align="center" color="white">Etch-a-Sketch</h3>
+      <br>
+      <a href='https://selt0.github.io/etch-a-sketch/'> 
+        <img src='https://github.com/Selt0/Selt0/blob/main/imgs/Etch-a-sketch.gif?raw=true' alt='etch-a-sketch project'/>  
+      </a>
+      <br> 
+      <p align='center'>
+        <a href="https://github.com/Selt0/etch-a-sketch" target="_blank">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
         </a>
-        <br> 
-        <p align='center'>
-          <a href="https://github.com/Selt0/etch-a-sketch" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://selt0.github.io/etch-a-sketch/" target="_blank">
-            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-          </a>
-        </p>
-        <p><strong>JavaScript, CSS3, HTML5</strong> - A broswer version of something between a sketchpad and an Etch-a-Sketch</p>
-      </td>
-      <td width='50%'>
-        <h3 align="center" color="white">Tic Tac Toe AI</h3>
-        <br> 
-        <a href='https://selt0.github.io/tictoe/'> 
-          <img src='https://github.com/Selt0/Selt0/blob/main/imgs/TicTacToe.gif?raw=true' alt='Tic Tac Toe website'/>
+        <a href="https://selt0.github.io/etch-a-sketch/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
         </a>
-        <br>
-        <p align='center'>
-          <a href="https://github.com/Selt0/tictoe" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>
-          <a href="https://selt0.github.io/tictoe/" target="_blank">
-            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-          </a>
-        </p>
-        <p><strong>JavaScript, HTML, and CSS</strong> - Created a vanilla Javascript app featuring AI. Play with friends or play with AI Jeffereson!</p>
-      </td>
-    </tr>
-  </table>
-</div>
+      </p>
+      <p><strong>JavaScript, CSS3, HTML5</strong> - A broswer version of something between a sketchpad and an Etch-a-Sketch</p>
+    </td>
+    <td width='50%'>
+      <h3 align="center" color="white">Tic Tac Toe AI</h3>
+      <br> 
+      <a href='https://selt0.github.io/tictoe/'> 
+        <img src='https://github.com/Selt0/Selt0/blob/main/imgs/TicTacToe.gif?raw=true' alt='Tic Tac Toe website'/>
+      </a>
+      <br>
+      <p align='center'>
+        <a href="https://github.com/Selt0/tictoe" target="_blank">
+          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+        </a>
+        <a href="https://selt0.github.io/tictoe/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+        </a>
+      </p>
+      <p><strong>JavaScript, HTML, and CSS</strong> - Created a vanilla Javascript app featuring AI. Play with friends or play with AI Jeffereson!</p>
+    </td>
+  </tr>
+</table>
   
 <h2 align="center">Technologies</h1>
 
