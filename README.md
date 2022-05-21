@@ -18,7 +18,7 @@ I work to create excellent responsive websites and am eager to solve problems th
 <h2 align="center">Highlighted Projects</h2>
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center" color="white">Portfolio</h3>
       <br>
       <a href='https://michael-martinez.netlify.app/'> 
@@ -35,7 +35,7 @@ I work to create excellent responsive websites and am eager to solve problems th
       </p>
       <p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <td width='50%'>
+    <td width='50%' valign="top">
       <h3 align="center" color="white">YelpCamp</h3>
       <br> 
       <a href='https://mysterious-savannah-78294.herokuapp.com/'> 
@@ -55,7 +55,7 @@ I work to create excellent responsive websites and am eager to solve problems th
   </tr>
 
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center" color="white">Etch-a-Sketch</h3>
       <br>
       <a href='https://selt0.github.io/etch-a-sketch/'> 
@@ -72,7 +72,7 @@ I work to create excellent responsive websites and am eager to solve problems th
       </p>
       <p><strong>JavaScript, CSS3, HTML5</strong> - A broswer version of something between a sketchpad and an Etch-a-Sketch</p>
     </td>
-    <td width='50%'>
+    <td width='50%' valign="top">
       <h3 align="center" color="white">Tic Tac Toe AI</h3>
       <br> 
       <a href='https://selt0.github.io/tictoe/'> 
