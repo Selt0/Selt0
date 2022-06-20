@@ -13,71 +13,79 @@ I am a Full-stack Web Developer/Software Engineer. I work to create excellent re
 
 <h2 align="center">Highlighted Projects</h2>
 <table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center" color="white">Portfolio</h3>
-      <br>
-      https://user-images.githubusercontent.com/23282172/174663020-2de888f4-5f43-40e3-bd74-06019ae27f17.mp4
-      <br>
-      <p align='center'>
-        <a href="https://github.com/Selt0/Portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://michael-martinez.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-        </a>
-      </p>
-      <p><strong>JavaScript, CSS, HTML</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width='50%' valign="top">
-      <h3 align="center" color="white">Camp</h3>
-      <br>
-      https://user-images.githubusercontent.com/23282172/174662742-1772aedf-3389-44f0-bd83-17245e5f6d6a.mp4
-      <br>
-      <p align='center'>
-        <a href="https://github.com/Selt0/campMN" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://campmn.herokuapp.com/" target="_blank">
-          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-        </a>
-      </p>
-      <p><strong>JavaScript, Bootstrap, Express.js, Node.js, MongoDB, Mapbox</strong> - A full-stack, fully functional web application where people can submit campgrounds and users can review them. With authentication and authorization!</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center" color="white">Portfolio</h3>
+<br>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center" color="white">Sunnyside Agency</h3>
-      <br>
-      https://user-images.githubusercontent.com/23282172/174664383-400d9e3b-52fe-4850-9413-4db398e6018b.mp4
-      <br>
-      <p align='center'>
-        <a href="https://github.com/Selt0/sunnyside-landing" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://selt0.github.io/sunnyside-landing/" target="_blank">
-          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-        </a>
-      </p>
-      <p><strong>JavaScript, CSS, HTML5</strong> - Sunnyside agency landing page</p>
-    </td>
-    <td width='50%' valign="top">
-      <h3 align="center" color="white">TV Search API</h3>
-      <br>
-      https://user-images.githubusercontent.com/23282172/174663659-58c0f32c-7f22-4965-8544-a535299f0830.mp4
-      <br>
-      <p align='center'>
-        <a href="https://github.com/Selt0/tvmazeAPI" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-        </a>
-        <a href="https://selt0.github.io/tvmazeAPI/" target="_blank">
-          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
-        </a>
-      </p>
-      <p><strong>JavaScript, HTML, CSS, Axios</strong> - A simple app that uses an API to display TV show search results.</p>
-    </td>
-  </tr>
+https://user-images.githubusercontent.com/23282172/174663020-2de888f4-5f43-40e3-bd74-06019ae27f17.mp4
+
+<br>
+<p align='center'>
+<a href="https://github.com/Selt0/Portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://michael-martinez.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS, HTML</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+</td>
+<td width='50%' valign="top">
+<h3 align="center" color="white">Camp</h3>
+<br>
+
+https://user-images.githubusercontent.com/23282172/174662742-1772aedf-3389-44f0-bd83-17245e5f6d6a.mp4
+
+<br>
+<p align='center'>
+<a href="https://github.com/Selt0/campMN" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://campmn.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, Bootstrap, Express.js, Node.js, MongoDB, Mapbox</strong> - A full-stack, fully functional web application where people can submit campgrounds and users can review them. With authentication and authorization!</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3 align="center" color="white">Sunnyside Agency</h3>
+<br>
+
+https://user-images.githubusercontent.com/23282172/174664383-400d9e3b-52fe-4850-9413-4db398e6018b.mp4
+
+<br>
+<p align='center'>
+<a href="https://github.com/Selt0/sunnyside-landing" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://selt0.github.io/sunnyside-landing/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS, HTML5</strong> - Sunnyside agency landing page</p>
+</td>
+<td width='50%' valign="top">
+<h3 align="center" color="white">TV Search API</h3>
+<br>
+
+https://user-images.githubusercontent.com/23282172/174663659-58c0f32c-7f22-4965-8544-a535299f0830.mp4
+
+<br>
+<p align='center'>
+<a href="https://github.com/Selt0/tvmazeAPI" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://selt0.github.io/tvmazeAPI/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
+</a>
+</p>
+<p><strong>JavaScript, HTML, CSS, Axios</strong> - A simple app that uses an API to display TV show search results.</p>
+</td>
+</tr>
 </table>
 
 <h2 align="center">Technologies</h1>
